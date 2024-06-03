@@ -5,7 +5,7 @@
  <img
       src="https://static.vecteezy.com/system/resources/previews/029/291/834/original/quiz-logo-with-speech-bubble-symbols-concept-of-questionnaire-show-sing-quiz-button-question-competition-png.png"
       alt="logo"
-      width="100"
+      width="150"
       height="100"
     />
 
@@ -39,16 +39,16 @@ At the end of a quiz, a score page is presented with the nicknames and the numbe
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png"
       alt="kotlin"
-      width="80"
-      height="50"
+      width="60"
+      height="60"
     />
   </a>
   <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
     <img
       src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png"
       alt="android"
-      width="50"
-      height="50"
+      width="60"
+      height="60"
     />
   </a>
 

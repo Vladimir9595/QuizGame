@@ -59,7 +59,7 @@ The application isn't on the Play Store yet.
 To take control of the project and continue the development or simply test the game by the emulator system, you can [download](https://developer.android.com/studio) the Android Studio IDE.
 
 You can directly clone the project from the main branch : 
-```powershell
+```bash
 git clone https://github.com/Vladimir9595/QuizGame.git
 ```
 
